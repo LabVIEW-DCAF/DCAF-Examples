@@ -32,9 +32,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Host Main.vi" Type="VI" URL="../Host Main.vi"/>
 		<Item Name="Host Simulation Configuration.pcfg" Type="Document" URL="../../Host Simulation Configuration.pcfg"/>
 		<Item Name="module includes.vi" Type="VI" URL="../module includes.vi"/>
-		<Item Name="Single Engine Main.vi" Type="VI" URL="../Single Engine Main.vi"/>
 		<Item Name="User Interface.vi" Type="VI" URL="../User Interface.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
