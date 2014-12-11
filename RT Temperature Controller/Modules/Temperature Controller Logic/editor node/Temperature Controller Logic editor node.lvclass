@@ -25,22 +25,6 @@
 	<Item Name="Temperature Controller Logic editor node.ctl" Type="Class Private Data" URL="Temperature Controller Logic editor node.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Properties" Type="Folder">
-		<Item Name="Module Menu Name" Type="Property Definition">
-			<Property Name="NI.ClassItem.Property.LongName" Type="Str">Module Menu Name</Property>
-			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Module Menu Name</Property>
-			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-			<Item Name="Read Module Menu Name.vi" Type="VI" URL="../Read Module Menu Name.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'8!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"*!-0````]*476O&gt;3"/97VF!'J!=!!?!!!S-&amp;2F&lt;8"F=G&amp;U&gt;8*F)%.P&lt;H2S&lt;WRM:8)A4'^H;7-A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!!,&amp;2F&lt;8"F=G&amp;U&gt;8*F)%.P&lt;H2S&lt;WRM:8)A4'^H;7-A:72J&gt;'^S)'ZP:'5A&lt;X6U!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!;%"Q!"Y!!$)Q6'6N='6S982V=G5A1W^O&gt;(*P&lt;'RF=C"-&lt;W&gt;J9S"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!!!L6'6N='6S982V=G5A1W^O&gt;(*P&lt;'RF=C"-&lt;W&gt;J9S"F:'FU&lt;X)A&lt;G^E:3"J&lt;A"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!E!!!!!</Property>
-				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
-				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
-			</Item>
-		</Item>
-	</Item>
 	<Item Name="configuration" Type="Property Definition">
 		<Property Name="NI.ClassItem.Property.LongName" Type="Str">configuration</Property>
 		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">configuration</Property>
