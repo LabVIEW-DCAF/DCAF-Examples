@@ -12,6 +12,7 @@
 		<Item Name="commands to rtexe" Type="Folder">
 			<Item Name="Actions" Type="Folder">
 				<Item Name="parse single action command.vi" Type="VI" URL="../SubVIs/parse single action command.vi"/>
+				<Item Name="safe state stop and close.vi" Type="VI" URL="../SubVIs/safe state stop and close.vi"/>
 				<Item Name="send all action command.vi" Type="VI" URL="../SubVIs/send all action command.vi"/>
 				<Item Name="send single action command.vi" Type="VI" URL="../SubVIs/send single action command.vi"/>
 			</Item>
@@ -20,6 +21,7 @@
 				<Item Name="send add search paths.vi" Type="VI" URL="../SubVIs/send add search paths.vi"/>
 			</Item>
 			<Item Name="Load from path or string" Type="Folder">
+				<Item Name="load from file and run all.vi" Type="VI" URL="../SubVIs/load from file and run all.vi"/>
 				<Item Name="parse load from file.vi" Type="VI" URL="../SubVIs/parse load from file.vi"/>
 				<Item Name="parse load from string.vi" Type="VI" URL="../SubVIs/parse load from string.vi"/>
 				<Item Name="send load from file.vi" Type="VI" URL="../SubVIs/send load from file.vi"/>
