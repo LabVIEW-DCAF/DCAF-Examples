@@ -56,7 +56,7 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
 		</Item>
-		<Item Name="apply data indices.vi" Type="VI" URL="../apply data indices.vi">
+		<Item Name="cache tag indices.vi" Type="VI" URL="../cache tag indices.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)2!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;J!=!!?!!!L+62F&lt;8"F=G&amp;U&gt;8*F)%.I97VC:8)A47^E:7QA=H6O&gt;'FN:3ZM&gt;G.M98.T!#65:7VQ:8*B&gt;(6S:3"$;'&amp;N9G6S)%VP:'6M)(*V&lt;H2J&lt;75A&lt;X6U!":!5!!$!!!!!1!##'6S=G^S)'FO!!!31&amp;-.;7ZE:8AA9WRV=X2F=A#9!0%!!!!!!!!!!B.51EUA9WBB&lt;GZF&lt;#ZM&gt;G.M98.T'G.I97ZO:7QA9WRB=X.J:GFD982J&lt;WYO9X2M!'&amp;!&amp;A!%#GFO=(6U)'2B&gt;'%,&lt;X6U=(6U)'2B&gt;'%5=(*P9W6T=WFO:S"Q98*B&lt;76U:8)2=(*P9W6T=WFO:S"S:8.V&lt;(1!&amp;G.I97ZO:7QA9WRB=X.J:GFD982J&lt;WY!!&amp;J!=!!?!!!L+62F&lt;8"F=G&amp;U&gt;8*F)%.I97VC:8)A47^E:7QA=H6O&gt;'FN:3ZM&gt;G.M98.T!#25:7VQ:8*B&gt;(6S:3"$;'&amp;N9G6S)%VP:'6M)(*V&lt;H2J&lt;75A;7Y!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!=!#!!*!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!#A!!!"!!!!#3!!!!!!%!#A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -131,7 +131,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
-	<Item Name="get data interface information.vi" Type="VI" URL="../get data interface information.vi">
+	<Item Name="get data definition.vi" Type="VI" URL="../get data definition.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(+!!!!"Q!%!!!!$%!B"H:B&lt;'FE0Q!!%E"4$7FO:'6Y)'.M&gt;8.U:8)!7E"Q!"Y!!#MJ6'6N='6S982V=G5A1WBB&lt;7*F=C".&lt;W2F&lt;#"S&gt;7ZU;7VF,GRW9WRB=X-!*62F&lt;8"F=G&amp;U&gt;8*F)%.I97VC:8)A47^E:7QA=H6O&gt;'FN:3"P&gt;81!G!$R!!!!!!!!!!)46%*.)'.I97ZO:7QO&lt;(:D&lt;'&amp;T=RJD;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O,G.U&lt;!"B1"9!"!JJ&lt;H"V&gt;#"E982B#W^V&gt;("V&gt;#"E982B&amp;("S&lt;W.F=X.J&lt;G=A='&amp;S97VF&gt;'6S%8"S&lt;W.F=X.J&lt;G=A=G6T&gt;7RU!":D;'&amp;O&lt;G6M)'.M98.T;7:J9W&amp;U;7^O!!";1(!!(A!!+SF5:7VQ:8*B&gt;(6S:3"$;'&amp;N9G6S)%VP:'6M)(*V&lt;H2J&lt;75O&lt;(:D&lt;'&amp;T=Q!E6'6N='6S982V=G5A1WBB&lt;7*F=C".&lt;W2F&lt;#"S&gt;7ZU;7VF)'FO!!"5!0!!$!!!!!%!!A!$!!!!!!!!!!!!!!!!!!1!"1)!!(A!!!!!!!!*!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!E!!!!!!"!!9!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">33554432</Property>
@@ -140,7 +140,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1342972416</Property>
 	</Item>
-	<Item Name="finalize initialization.vi" Type="VI" URL="../finalize initialization.vi">
+	<Item Name="user initialization.vi" Type="VI" URL="../user initialization.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'J!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!&amp;J!=!!?!!!L+62F&lt;8"F=G&amp;U&gt;8*F)%.I97VC:8)A47^E:7QA=H6O&gt;'FN:3ZM&gt;G.M98.T!#65:7VQ:8*B&gt;(6S:3"$;'&amp;N9G6S)%VP:'6M)(*V&lt;H2J&lt;75A&lt;X6U!":!5!!$!!!!!1!##'6S=G^S)'FO!!"#1(!!(A!!*C2D&lt;WZU=G^M)'VP:(6M:3"D&lt;WZG;7&gt;V=G&amp;U;7^O,GRW9WRB=X-!!""D&lt;WZG;7&gt;V=G&amp;U;7^O)'FO!!";1(!!(A!!+SF5:7VQ:8*B&gt;(6S:3"$;'&amp;N9G6S)%VP:'6M)(*V&lt;H2J&lt;75O&lt;(:D&lt;'&amp;T=Q!E6'6N='6S982V=G5A1WBB&lt;7*F=C".&lt;W2F&lt;#"S&gt;7ZU;7VF)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!3!!!!EA!!!!!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
