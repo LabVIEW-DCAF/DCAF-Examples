@@ -93,7 +93,6 @@
 				<Item Name="RT Set CPU Pool Assignments.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/RT Set CPU Pool Assignments.vi"/>
 				<Item Name="RT Get Number of CPUs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/RT Get Number of CPUs.vi"/>
 				<Item Name="RT CPU pool selections.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/RT CPU pool selections.ctl"/>
-				<Item Name="Current Value Table.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Current Value Table/Current Value Table.lvlib"/>
 				<Item Name="Standard Engine Runtime.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/TBM Engines/Standard Engine/Runtime/Standard Engine Runtime.lvclass"/>
 			</Item>
 			<Item Name="Temperature Controller Logic runtime.lvclass" Type="LVClass" URL="../../Modules/Temperature Controller Logic/module/execution/Temperature Controller Logic runtime.lvclass"/>
