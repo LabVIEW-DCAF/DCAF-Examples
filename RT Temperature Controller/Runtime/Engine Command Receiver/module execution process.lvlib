@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Configuration Management" Type="Folder">
 		<Item Name="add element to configuration.vi" Type="VI" URL="../SubVIs/add element to configuration.vi"/>
 		<Item Name="configuration elements.ctl" Type="VI" URL="../SubVIs/configuration elements.ctl"/>
@@ -12,7 +13,6 @@
 		<Item Name="commands to rtexe" Type="Folder">
 			<Item Name="Actions" Type="Folder">
 				<Item Name="parse single action command.vi" Type="VI" URL="../SubVIs/parse single action command.vi"/>
-				<Item Name="safe state stop and close.vi" Type="VI" URL="../SubVIs/safe state stop and close.vi"/>
 				<Item Name="send all action command.vi" Type="VI" URL="../SubVIs/send all action command.vi"/>
 				<Item Name="send single action command.vi" Type="VI" URL="../SubVIs/send single action command.vi"/>
 			</Item>
@@ -21,7 +21,6 @@
 				<Item Name="send add search paths.vi" Type="VI" URL="../SubVIs/send add search paths.vi"/>
 			</Item>
 			<Item Name="Load from path or string" Type="Folder">
-				<Item Name="load from file and run all.vi" Type="VI" URL="../SubVIs/load from file and run all.vi"/>
 				<Item Name="parse load from file.vi" Type="VI" URL="../SubVIs/parse load from file.vi"/>
 				<Item Name="parse load from string.vi" Type="VI" URL="../SubVIs/parse load from string.vi"/>
 				<Item Name="send load from file.vi" Type="VI" URL="../SubVIs/send load from file.vi"/>
@@ -63,5 +62,7 @@
 		<Item Name="engine status data.ctl" Type="VI" URL="../SubVIs/engine status data.ctl"/>
 		<Item Name="tokenized path.ctl" Type="VI" URL="../SubVIs/tokenized path.ctl"/>
 	</Item>
+	<Item Name="load from file and run all.vi" Type="VI" URL="../SubVIs/load from file and run all.vi"/>
+	<Item Name="safe state stop and close.vi" Type="VI" URL="../SubVIs/safe state stop and close.vi"/>
 	<Item Name="Module Execution Main.vi" Type="VI" URL="../Module Execution Main.vi"/>
 </Library>
