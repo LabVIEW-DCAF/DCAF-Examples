@@ -39,6 +39,7 @@
 		<Item Name="FullSystem.pcfg" Type="Document" URL="../../FullSystem.pcfg"/>
 		<Item Name="SimulatedSystem.pcfg" Type="Document" URL="../../SimulatedSystem.pcfg"/>
 		<Item Name="Temperature Chamber Documentation.pdf" Type="Document" URL="../../Temperature Chamber Documentation.pdf"/>
+		<Item Name="Temperature Chamber Quick Start Guide.pdf" Type="Document" URL="../../Temperature Chamber Quick Start Guide.pdf"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -139,7 +140,7 @@
 	</Item>
 	<Item Name="NI-cRIO" Type="RT CompactRIO">
 		<Property Name="alias.name" Type="Str">NI-cRIO</Property>
-		<Property Name="alias.value" Type="Str">10.0.59.195</Property>
+		<Property Name="alias.value" Type="Str">0.0.0.0</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,ARM;DeviceCode,76D6;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">76D6</Property>
 		<Property Name="crio.family" Type="Str">ARMLinux</Property>
