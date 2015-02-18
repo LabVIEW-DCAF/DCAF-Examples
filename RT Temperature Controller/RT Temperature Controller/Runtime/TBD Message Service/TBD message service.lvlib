@@ -64,5 +64,5 @@
 	</Item>
 	<Item Name="load from file and run all.vi" Type="VI" URL="../SubVIs/load from file and run all.vi"/>
 	<Item Name="safe state stop and close.vi" Type="VI" URL="../SubVIs/safe state stop and close.vi"/>
-	<Item Name="Module Execution Main.vi" Type="VI" URL="../Module Execution Main.vi"/>
+	<Item Name="message service.vi" Type="VI" URL="../message service.vi"/>
 </Library>
