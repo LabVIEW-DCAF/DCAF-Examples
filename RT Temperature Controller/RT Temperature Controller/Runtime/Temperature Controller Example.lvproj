@@ -38,8 +38,8 @@
 		<Item Name="User Interface.vi" Type="VI" URL="../User Interface.vi"/>
 		<Item Name="FullSystem.pcfg" Type="Document" URL="../../FullSystem.pcfg"/>
 		<Item Name="SimulatedSystem.pcfg" Type="Document" URL="../../SimulatedSystem.pcfg"/>
-		<Item Name="Temperature Chamber Documentation.pdf" Type="Document" URL="../../Temperature Chamber Documentation.pdf"/>
 		<Item Name="Temperature Chamber Quick Start Guide.pdf" Type="Document" URL="../../Temperature Chamber Quick Start Guide.pdf"/>
+		<Item Name="Temperature Chamber Detailed Documentation.pdf" Type="Document" URL="../../Temperature Chamber Detailed Documentation.pdf"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>

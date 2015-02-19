@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2015-02-18 17:23:10" Creator="bsnover" Comments="" ID="44420e81f5a02f9908b1bb0585937650">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2015-02-19 10:26:33" Creator="bsnover" Comments="" ID="f69d278ebd6b3427679317e11e4042fe">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_TBD_Examples</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.0.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -121,9 +121,6 @@
         <Namespace/>
       </Namespace_Overrides>
       <Exclusions>
-        <Path>~$mperature Chamber Quick Start Guide.docx</Path>
-      </Exclusions>
-      <Exclusions>
         <Path>Temperature Chamber Quick Start Guide.docx</Path>
       </Exclusions>
       <Exclusions>
@@ -242,7 +239,7 @@
         <Path>Runtime</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3BE9A2D74600EDB3CD9D7E2F4C736E42</GUID>
+      <GUID>6F586B6958829A2A20CACA38E94529B8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -319,7 +316,7 @@
         <Path>Modules\Watchdog</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>36BED347DE9F5C8915CED38E2CF35AF7</GUID>
+      <GUID>757C13AD256A0B23EC8CEAE36FA5E496</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -424,7 +421,7 @@
         <Path>RT Temperature Controller\Runtime\User Interface.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>68AEC38BE6F7FC56A81B4FB54F791A76</GUID>
+      <GUID>765AF28A698C47F926B880D10C7D7E21</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -473,7 +470,7 @@
         <Path>Modules\System Diagnostics\module</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B45F6592B240E9DB31A3DBEFB479960D</GUID>
+      <GUID>D01E9BBAAC6AEB3E51E27C151826BCA3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -522,7 +519,7 @@
         <Path>Modules\Temperature Chamber Model\module</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A7AA47907BE86850E3C0F38A4202E8D1</GUID>
+      <GUID>4CBB0844C8C0B0486B80DC46C74D3E87</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -571,7 +568,7 @@
         <Path>Modules\Temperature Controller Logic\module</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9BA9E65B582A0F6272EEE3AECED9C8AB</GUID>
+      <GUID>0FE8AA796B59DCD73B86310AD2E3C55E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -620,7 +617,7 @@
         <Path>Modules\Watchdog\module</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9138E3ED7F4217E03A5E4EB5CC346E6A</GUID>
+      <GUID>F1523E5F86341241511EF4E7A617E589</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -683,7 +680,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\editor node\Write configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>16101ADDBC4FB92CD799352B79A624AE</GUID>
+      <GUID>A234505B9DD90BD0BC262E700FABC075</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -732,7 +729,7 @@
         <Path>Modules\System Diagnostics\module\execution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6C7A3B2805C492F412EDA53A38E30F11</GUID>
+      <GUID>4D18002D50F1571F868323E1B415C25D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -809,7 +806,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\module\configuration\instance count allowed.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0B936A9B5551464B3923612251B68DF1</GUID>
+      <GUID>6C316400059869F8C5CC3507C0E9F5EA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -914,7 +911,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\module\execution\user initialization.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>349FC7AC04F3EAFFD5226E315A27DA5F</GUID>
+      <GUID>44C49FDD8C718DD98C5530B08A265298</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -977,7 +974,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\editor node\Write configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2157046AA74C3C64516B06D82D0FBAA2</GUID>
+      <GUID>2FEA88F50AD90CBAA3D644DB4EC2B947</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -1026,7 +1023,7 @@
         <Path>Modules\Temperature Chamber Model\module\execution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FE1E91A16AB699C6DB6B4278880F0488</GUID>
+      <GUID>04A9B89C81E5EAE14DEEE4FDCBFC1723</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -1103,7 +1100,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\module\configuration\instance count allowed.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C768964DA9B37377EEE3F8BF77A782D5</GUID>
+      <GUID>756B03A9A13C5154DFB9A13826504E89</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -1264,7 +1261,7 @@
         <Path>RT Temperature Controller\Modules\Temperature Chamber Model\module\execution\user process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A5865879E2B65E2371C66166776EE6FE</GUID>
+      <GUID>E1029170200A5AA22D48FB0E4D57C372</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1327,7 +1324,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\editor node\Write configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>74B7CBA8926F8A072E7BA7AC272AB413</GUID>
+      <GUID>8812BF41141D287F6F2FAAB209203A8B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1376,7 +1373,7 @@
         <Path>Modules\Temperature Controller Logic\module\execution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4E79A68F1D400264EF9796A540DEA5CE</GUID>
+      <GUID>8E7EF78365E6EFBFE7FBE48D2F87D799</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -1453,7 +1450,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\module\configuration\instance count allowed.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9E406D8B7FBAD04DC50CC5F08B7642C8</GUID>
+      <GUID>9DCF87C0CCE46C35D1AF464F65AF21EA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>16</Parent_Palette_Index>
@@ -1614,7 +1611,7 @@
         <Path>RT Temperature Controller\Modules\Temperature Chamber Model\module\execution\user process.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A37899781534751EAD57F5655D32441E</GUID>
+      <GUID>9658B2D9970D40A3557776BF9C550045</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1677,7 +1674,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\editor node\Write configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EB63453503928F254D398DE61853137A</GUID>
+      <GUID>223259345C4B30DA1A0B79B038858268</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1726,7 +1723,7 @@
         <Path>Modules\Watchdog\module\execution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BA0994CC2D3CF14983CD89FA367E2321</GUID>
+      <GUID>7BAC6F2ECD71AD4EC4185EA3F0BED286</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>20</Parent_Palette_Index>
@@ -1831,7 +1828,7 @@
         <Path>RT Temperature Controller\Modules\Watchdog\module\configuration\validate key value pair.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7305DCDE825DDD05E9C3B093F46E6FC5</GUID>
+      <GUID>7DEE5EB0D22EB1EB8922F2785E461488</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>20</Parent_Palette_Index>
@@ -1950,7 +1947,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\module\execution\user initialization.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>31B17013DDE87113B2825BF5E509D2DF</GUID>
+      <GUID>75FAC148CD3F362E8333BB64325C2B5E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1985,7 +1982,7 @@
         <Path>Runtime\Engine Command Receiver\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D3819F00EAF5AC7CE0B7EA521E402B6C</GUID>
+      <GUID>81E2C0124B7D02CB1DEBA2AC4D547579</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>23</Parent_Palette_Index>
@@ -2384,7 +2381,7 @@
         <Path>RT Temperature Controller\Runtime\TBD Message Service\SubVIs\string to response.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>92C46344D060A9EFE3D153A4ABCAB97B</GUID>
+      <GUID>FB9E7EC4C13115229B3383A385DB2DC8</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -2433,7 +2430,7 @@
         <Path>Runtime</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C1D8191D8E35E61176ADE5AE79DBD467</GUID>
+      <GUID>0EA34AABD6E3EC2AFD07C84D3BAE1232</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2496,7 +2493,7 @@
         <Path>Modules\Temperature Controller Logic</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D3EE2E7083B138B73412702235513295</GUID>
+      <GUID>EF13A213278D154706C85502B4F814E5</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2531,7 +2528,7 @@
         <Path>Runtime\Engine Command Receiver</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>86B1C0FEDB931CF84922B4AA01AFCCF8</GUID>
+      <GUID>49A3F2CAD7D447E786192884F27A9F29</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2566,7 +2563,7 @@
         <Path>Modules\System Diagnostics\module</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D452BE9A04F61BBA7FCC7BBF2BC2313E</GUID>
+      <GUID>27136958DEF338A409AF1E3BA783C2FE</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2601,7 +2598,7 @@
         <Path>Modules\Temperature Chamber Model\module</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>79E1898CCF6AE2B20770383520A78674</GUID>
+      <GUID>00FA2D7C042FFD6FB20CD5D478786C1C</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -2636,7 +2633,7 @@
         <Path>Modules\Temperature Controller Logic\module</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>666D8C72E5188F0E6B89BF6F320DB16E</GUID>
+      <GUID>F9103E3A42F197CD7D64C4776499D69E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -2685,7 +2682,7 @@
         <Path>Modules\System Diagnostics\module\execution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>224806B8B5055A6679B12D4FEFDD2DAD</GUID>
+      <GUID>F2DF717FB26C1A25018162AE73BDCB83</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -2720,7 +2717,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\module\configuration\input data indices.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4CAEE44392942346AF8E1CC64A59DB80</GUID>
+      <GUID>EB4C78BB1DA2262C25BA5AF71F902F2D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -2755,7 +2752,7 @@
         <Path>RT Temperature Controller\Modules\System Diagnostics\module\execution\input user data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A1884380957990DC61BDF65F64BE4929</GUID>
+      <GUID>E71EAED0950092BD1DB575BB31B551D1</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>4</Parent_Palette_Index>
@@ -2804,7 +2801,7 @@
         <Path>Modules\Temperature Chamber Model\module\execution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EA88CEA89874D3EB9A012D05A315AC9A</GUID>
+      <GUID>26BABB403C595FC983D8CACAD5F65C1B</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -2853,7 +2850,7 @@
         <Path>RT Temperature Controller\Modules\Temperature Chamber Model\module\configuration\result data indices.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4DE1F8370CD839B4B0B938E226690EE4</GUID>
+      <GUID>81EBAA2B047D2A434C22C77C1A56FBB0</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>9</Parent_Palette_Index>
@@ -2916,7 +2913,7 @@
         <Path>RT Temperature Controller\Modules\Temperature Chamber Model\module\execution\result user data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AF79443A802F4668CA231463161BAC4B</GUID>
+      <GUID>BE71BE87C25040CDEE9F7C0E13E1BDB8</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -2965,7 +2962,7 @@
         <Path>Modules\Temperature Controller Logic\module\execution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>71E4AF2D1C813153EDC7A1EB973E93FE</GUID>
+      <GUID>065A02C4F6BC66F2449528A54ACFA456</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -3014,7 +3011,7 @@
         <Path>RT Temperature Controller\Modules\Temperature Chamber Model\module\configuration\result data indices.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2A7A9C93FF0C3650E42AE4392FA44AFC</GUID>
+      <GUID>19D912DB72F3053B26FB10EC7DB94EF7</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -3063,7 +3060,7 @@
         <Path>RT Temperature Controller\Modules\Temperature Chamber Model\module\execution\result user data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>287B78CA9E33F091CA820FA8FB9905C6</GUID>
+      <GUID>777EFE07C8901C76AF8537F3DA4A9058</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -3098,7 +3095,7 @@
         <Path>Runtime\Engine Command Receiver\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>68841A8CE8E2EF43A4542A54C503BE3F</GUID>
+      <GUID>8EB11F774F4D9430D629019C301D7684</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>15</Parent_Palette_Index>
@@ -3203,7 +3200,7 @@
         <Path>RT Temperature Controller\Runtime\TBD Message Service\SubVIs\tokenized path.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>715EED102948A74B6D5D199ED62C4D0B</GUID>
+      <GUID>EC2C83812A80DBA972246F0F1F168AD0</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
