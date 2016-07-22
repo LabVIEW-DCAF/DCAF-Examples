@@ -473,7 +473,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="cRIO Main.vi" Type="VI" URL="../cRIO Main.vi"/>
 		<Item Name="cRIO Module Includes.vi" Type="VI" URL="../cRIO Module Includes.vi"/>
-		<Item Name="TBD message service.lvlib" Type="Library" URL="../TBD Message Service/TBD message service.lvlib"/>
+		<Item Name="DCAF message service.lvlib" Type="Library" URL="../TBD Message Service/DCAF message service.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>
