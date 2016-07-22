@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-07-21 23:21:30" Creator="bsnover" Comments="" ID="ed84fcb8799319bed49f1ea17a3cf6e4">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-07-22 00:06:09" Creator="bsnover" Comments="" ID="bd63af0aa4f40dd9359ae740b65242b7">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_TBD_Examples</Package_File_Name>
     <Library_Version>1.0.0.8</Library_Version>
@@ -107,12 +107,6 @@
         <Path>.</Path>
         <Destination>1</Destination>
         <Additional_Destination>false</Additional_Destination>
-        <Additional_Destination_Index>0</Additional_Destination_Index>
-      </Destination_Overrides>
-      <Destination_Overrides>
-        <Path>Tag Bus Data Framework.bin3</Path>
-        <Destination>0</Destination>
-        <Additional_Destination>true</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
       <Password_Overrides>

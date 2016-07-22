@@ -1,7 +1,41 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="13008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.Project.Description" Type="Str">This example demonstrates a simple temperature controller application using the Distributed Control and Automation framework (DCAF).  The example includes step by step instructions for getting the example running and for navigating various aspects of the framework.</Property>
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
+	<Property Name="ThirdParty.LV.ExampleFinder" Type="Str">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
+&lt;nidna:ExampleProgram 
+    xmlns:nidna="http://www.ni.com/Schemas/DNA/1.0" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.ni.com/Schemas/DNA/1.0 ..\DNA\1.0\NiExampleProgram.xsd" 
+    SchemaVersion="1.0" 
+    ContentType="EXAMPLE" 
+&lt;Title&gt;
+	&lt;Text Locale="US"&gt;Temperature Controller Example.lvproj&lt;/Text&gt;
+&lt;/Title&gt;
+&lt;Description&gt;
+	&lt;Text Locale="US"&gt;This example demonstrates a simple temperature controller application using the Distributed Control and Automation framework (DCAF).  The example includes step by step instructions for getting the example running and for navigating various aspects of the framework.&lt;/Text&gt;
+&lt;/Description&gt;
+&lt;Keywords&gt;
+	&lt;Item&gt;DCAF&lt;/Item&gt;
+	&lt;Item&gt;Distributed&lt;/Item&gt;
+	&lt;Item&gt;Control&lt;/Item&gt;
+	&lt;Item&gt;Automation&lt;/Item&gt;
+	&lt;Item&gt;Framework&lt;/Item&gt;
+&lt;/Keywords&gt;
+&lt;Navigation&gt;
+	&lt;Item&gt;2277&lt;/Item&gt;
+&lt;/Navigation&gt;
+&lt;FileType&gt;LV Project&lt;/FileType&gt;
+&lt;Metadata&gt;
+&lt;Item Name="RTSupport"&gt;&lt;/Item&gt;
+&lt;/Metadata&gt;
+&lt;ProgrammingLanguages&gt;
+&lt;Item&gt;LabVIEW&lt;/Item&gt;
+&lt;/ProgrammingLanguages&gt;
+&lt;RequiredSoftware&gt;
+&lt;NiSoftware MinVersion="13.0"&gt;LabVIEW&lt;/NiSoftware&gt; 
+&lt;/RequiredSoftware&gt;</Property>
 	<Property Name="varPersistentID:{0454A624-7631-4CE4-A224-9E8ACB9B3B18}" Type="Ref">/NI-cRIO/Chassis/Mod2/PWM4</Property>
 	<Property Name="varPersistentID:{185BD1A4-4D4E-4262-B111-4139883EACBE}" Type="Ref">/NI-cRIO/Chassis/Mod1/Temperature-cRIO</Property>
 	<Property Name="varPersistentID:{2CD38CC5-011B-44AF-9042-79D3553F0299}" Type="Ref">/NI-cRIO/Chassis/Mod1/AI2</Property>
