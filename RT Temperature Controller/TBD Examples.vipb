@@ -1,6 +1,6 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-07-25 11:31:35" Creator="bsnover" Comments="" ID="8a02af9252db48c863894fe911b094bd">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-07-25 13:59:50" Creator="bsnover" Comments="" ID="7c86793ee5e05e24a5a22ff89ce622e6">
   <Library_General_Settings>
-    <Package_File_Name>ni_lib_TBD_Examples</Package_File_Name>
+    <Package_File_Name>ni_lib_dcaf_examples</Package_File_Name>
     <Library_Version>1.0.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
