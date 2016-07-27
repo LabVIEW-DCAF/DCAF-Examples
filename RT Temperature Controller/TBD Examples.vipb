@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-07-25 13:59:50" Creator="bsnover" Comments="" ID="7c86793ee5e05e24a5a22ff89ce622e6">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-07-26 18:40:01" Creator="bsnover" Comments="" ID="52d119cf2bd5e3e1a31d29e4aec5fc06">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_examples</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
