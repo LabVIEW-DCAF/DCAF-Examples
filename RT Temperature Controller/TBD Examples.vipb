@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-07-26 22:35:30" Creator="bsnover" Comments="" ID="493f8cb8d5a93252f6756984af8bd1e5">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2015-02-16 14:03:33" Modified_Date="2016-12-13 17:21:21" Creator="bsnover" Comments="" ID="14300fad1bed6a323a5fe488e471f9ff">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_examples</Package_File_Name>
-    <Library_Version>1.0.0.9</Library_Version>
+    <Library_Version>1.1.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -17,11 +17,11 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_cvt &gt;=2.0.3.100</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_scan_engine &gt;=2.0.2.42</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_standard_engine &gt;=2.2.0.62</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_udp &gt;=2.0.2.40</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_uiref &gt;=2.0.2.10</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dcaf_cvt &gt;=2.1.0.10</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dcaf_scan_engine &gt;=2.0.2.45</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dcaf_standard_engine &gt;=2.3.0.76</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dcaf_udp &gt;=2.1.0.44</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dcaf_uiref &gt;=2.1.0.2</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -38,7 +38,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>DCAF 1.1 Release</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
