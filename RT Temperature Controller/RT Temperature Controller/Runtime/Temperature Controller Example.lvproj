@@ -239,8 +239,6 @@
 			<Item Name="System.Drawing" Type="Document" URL="System.Drawing">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="nirviCommon.vi" Type="VI" URL="/&lt;vilib&gt;/express/rvi/timingcommon/nirviCommon.vi"/>
-			<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -646,12 +644,10 @@ AddOutputFilter chunkFilter
 			<Item Name="lvalarms.dll" Type="Document" URL="lvalarms.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="nirviCommon.vi" Type="VI" URL="/&lt;vilib&gt;/express/rvi/timingcommon/nirviCommon.vi"/>
 			<Item Name="Temperature Chamber Model configuration.lvclass" Type="LVClass" URL="../../Modules/Temperature Chamber Model/module/configuration/Temperature Chamber Model configuration.lvclass"/>
 			<Item Name="Temperature Chamber Model runtime.lvclass" Type="LVClass" URL="../../Modules/Temperature Chamber Model/module/execution/Temperature Chamber Model runtime.lvclass"/>
 			<Item Name="Temperature Controller Logic configuration.lvclass" Type="LVClass" URL="../../Modules/Temperature Controller Logic/module/configuration/Temperature Controller Logic configuration.lvclass"/>
 			<Item Name="Temperature Controller Logic runtime.lvclass" Type="LVClass" URL="../../Modules/Temperature Controller Logic/module/execution/Temperature Controller Logic runtime.lvclass"/>
-			<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
